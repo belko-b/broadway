@@ -16,5 +16,30 @@ a {
   }
 
 div.heading {
-  background-image: url("e:/Coding/broadway/resources/images/the-flatiron-building.png");
+  background-image: url("e:/coding/broadway/resources/images/the-flatiron-building.png");
+}
+
+h2 {
+  font-family: Helvetica;
+  font-size: 32px;
+  font-weight: bold;
+}
+
+p {
+  font-family: Helvetica;
+  font-size: 14px;
+}
+
+h3 {
+  font-family: Helvetica;
+  font-size: 23px;
+  font-weight: bold;
+}
+
+h3#bottomheading {
+  font-family: Helvetica;
+  font-size: 23px;
+  font-weight: bold;
+  color: white;
+  background-image: url("e:/coding/broadway/resources/images/the-flatiron-building.png");
 }
