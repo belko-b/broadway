@@ -17,6 +17,9 @@ a {
 
 div.heading {
   background-image: url("e:/coding/broadway/resources/images/the-flatiron-building.png");
+  background-size: auto;
+  background-repeat: no-repeat;
+  background-position: center;
 }
 
 h2 {
@@ -42,4 +45,11 @@ h3#bottomheading {
   font-weight: bold;
   color: white;
   background-image: url("e:/coding/broadway/resources/images/the-flatiron-building.png");
+  background-size: auto;
+  background-repeat: no-repeat;
+  background-position: center;
+}
+
+ul {
+  list-style-type: none;
 }
