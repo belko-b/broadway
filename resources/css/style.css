@@ -53,3 +53,14 @@ h3#bottomheading {
 ul {
   list-style-type: none;
 }
+
+span {
+  font-family: Helvetica;
+  font-size: 11px;
+}
+
+div.footer {
+  text-align: left;
+  color: white;
+  background-color: dimgray;
+}
